@@ -48,7 +48,7 @@ hr.small {
     -moz-border-radius: 119px 119px 119px 119px;
     -webkit-border-radius: 119px 119px 119px 119px;
     border: 1px solid #000000;
-    
+
     margin-top: 15px;
     margin-bottom: 15px;
 
@@ -60,6 +60,10 @@ hr.small {
 
 .cancel {
     background-color: #F78181;
+}
+
+.minus {
+  background-color: #F7D358;
 }
 
 .titulo {
